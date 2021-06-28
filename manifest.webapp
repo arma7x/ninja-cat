@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "name": "Neko Ninja",
+  "description": "This is the Ninja Forest. Invaders have entered & they have brought a gun cowardly. Get rid of them in the dark",
+  "launch_path": "/index.html",
+  "theme": "#873eff",
+  "theme_color": "#873eff",
+  "background_color": "#873eff",
+  "fullscreen": "true",
+  "chrome": {
+    "statusbar": "overlap"
+  },
+  "categories": [
+    "games"
+  ],
+  "icons": {
+    "56": "/icons/icon56x56.png",
+    "112": "/icons/icon112x112.png"
+  },
+  "developer": {
+    "name": "arma7x",
+    "url": "https://github.com/arma7x"
+  },
+  "origin": "app://neko-ninja.arma7x.com",
+  "type": "web",
+  "permissions": {},
+  "messages": [],
+  "locales": {
+    "en-US": {
+      "name": "Neko Ninja",
+      "subtitle": "This is the Ninja Forest. Invaders have entered & they have brought a gun cowardly. Get rid of them in the dark",
+      "description": "This is the Ninja Forest. Invaders have entered & they have brought a gun cowardly. Get rid of them in the dark"
+    }
+  },
+  "default_locale": "en-US"
+}
